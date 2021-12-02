@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\Rock_paper_scissors\bin\Debug\netcoreapp3.1\Rock_paper_scissors.exe
+C:\Users\opilane\source\repos\Rock_paper_scissors\bin\Debug\netcoreapp3.1\Rock_paper_scissors.deps.json
+C:\Users\opilane\source\repos\Rock_paper_scissors\bin\Debug\netcoreapp3.1\Rock_paper_scissors.runtimeconfig.json
+C:\Users\opilane\source\repos\Rock_paper_scissors\bin\Debug\netcoreapp3.1\Rock_paper_scissors.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Rock_paper_scissors\bin\Debug\netcoreapp3.1\Rock_paper_scissors.dll
+C:\Users\opilane\source\repos\Rock_paper_scissors\bin\Debug\netcoreapp3.1\Rock_paper_scissors.pdb
+C:\Users\opilane\source\repos\Rock_paper_scissors\obj\Debug\netcoreapp3.1\Rock_paper_scissors.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Rock_paper_scissors\obj\Debug\netcoreapp3.1\Rock_paper_scissors.Form1.resources
+C:\Users\opilane\source\repos\Rock_paper_scissors\obj\Debug\netcoreapp3.1\Rock_paper_scissors.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\Rock_paper_scissors\obj\Debug\netcoreapp3.1\Rock_paper_scissors.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Rock_paper_scissors\obj\Debug\netcoreapp3.1\Rock_paper_scissors.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Rock_paper_scissors\obj\Debug\netcoreapp3.1\Rock_paper_scissors.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Rock_paper_scissors\obj\Debug\netcoreapp3.1\Rock_paper_scissors.dll
+C:\Users\opilane\source\repos\Rock_paper_scissors\obj\Debug\netcoreapp3.1\Rock_paper_scissors.pdb
+C:\Users\opilane\source\repos\Rock_paper_scissors\obj\Debug\netcoreapp3.1\Rock_paper_scissors.genruntimeconfig.cache
